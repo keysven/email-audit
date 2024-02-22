@@ -30,3 +30,5 @@ This project is in an early phase, so the features are not yet complete. At the 
 Since checking date and time is crucial in an auditing process, table rows have alternating background colors between dates to make it easier to distinguish emails sent on different dates.
 
 Our users are diverse and have many different device configurations, so we need to make sure the UI doesn't break when viewed at any screen size. However, since we haven't implemented a mobile version of the design yet, we understand that the information cannot be consumed well on very small screen sizes.
+
+<script src="https://gist.github.com/keysven/08d615a6365a982f8c3c44d897c25180.js"></script>
